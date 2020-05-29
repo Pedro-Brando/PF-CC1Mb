@@ -1,6 +1,5 @@
 # PF-CC1Mb
-Projeto Final de Semestre (individual) - Pedro Henrique Alcântara Ramos
-Rolador de dados (Dice Roller) para RPG
+Projeto Final de Semestre (individual) - Pedro Henrique Alcântara Ramos - Rolador de dados (Dice Roller) para RPG
 
 O código sozinho se encontra no repositório, ou também se encontra compactado no arquivo DiceRoller.zip
 
